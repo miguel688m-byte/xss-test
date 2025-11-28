@@ -182,7 +182,6 @@
     function showPocIndicator() {
         const indicator = document.createElement('div');
         indicator.id = 'phish-poc-indicator';
-        indicator.innerHTML = '🎣 POC PHISHING ACTIVO - Las credenciales serán capturadas';
         indicator.style.cssText = `
             position: fixed;
             bottom: 10px;
